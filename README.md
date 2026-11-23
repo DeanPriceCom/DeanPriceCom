@@ -14,6 +14,6 @@ Contact channels (Email, Phone, WhatsApp) and full profile links are available a
 ### Verified Identity & Profiles
 
 * **Website & AI Context:** [deanprice.com](https://www.deanprice.com/) · [llms.txt](https://www.deanprice.com/llms.txt) · [llms-full.txt](https://www.deanprice.com/llms-full.txt)
-* **Academic & Authority IDs:** [ORCID (`0009-0001-4937-2409`)](https://orcid.org/0009-0001-4937-2409) · [ISNI (`0000 0005 3187 4306`)](https://isni.org/isni/0000000531874306) · [Wikidata (`Q140167209`)](https://www.wikidata.org/wiki/Q140167209) · [Google Scholar (`jkyjNi4AAAAJ`)](https://scholar.google.com/citations?user=jkyjNi4AAAAJ)
+* **Academic & Authority IDs:** [ORCID](https://orcid.org/0009-0001-4937-2409) (0009-0001-4937-2409) · [ISNI](https://isni.org/isni/0000000531874306) (0000 0005 3187 4306) · [Wikidata](https://www.wikidata.org/wiki/Q140167209) (Q140167209) · [Google Scholar](https://scholar.google.com/citations?user=jkyjNi4AAAAJ) (jkyjNi4AAAAJ)
 * **Digital Identity Verification:** [Post Office EasyID (UK DIATF)](https://www.postoffice.co.uk/identity/easyid) · [Yoti](https://www.yoti.com/)
-* **Social & Media:** [Bluesky (`@deanprice.com`)](https://bsky.app/profile/deanprice.com) · [YouTube (`@DeanPriceCom`)](https://www.youtube.com/@DeanPriceCom)
+* **Social & Media:** [Bluesky](https://bsky.app/profile/deanprice.com) (@deanprice.com) · [YouTube](https://www.youtube.com/@DeanPriceCom) (@DeanPriceCom)
